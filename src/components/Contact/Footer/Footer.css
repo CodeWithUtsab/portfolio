@@ -1,0 +1,15 @@
+.footer p {
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 10px 0 0;
+    color: black;
+}
+
+
+/*----------Footer---------*/
+@media (max-width: 480px) {
+    .footer .top {
+        margin-top: 20px;
+    }
+}

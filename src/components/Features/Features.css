@@ -1,0 +1,37 @@
+.features .box {
+    padding: 1.5rem;
+}
+
+.features .box h2 {
+    margin: 1rem 0 1rem 0;
+}
+
+.features .box p {
+    word-spacing: .1rem;
+    transition: 0.5s;
+}
+
+@media (max-width:480px) {
+    .features .box {
+        padding: 1rem;
+    }
+
+    .features .box h2 {
+        margin: .5rem 0 .5rem 0;
+        font-size: 1rem;
+    }
+
+    .features .box p {
+        font-size: .8rem;
+    }
+
+    .features .box img {
+        height: 2rem;
+    }
+
+    .features .heading h1 {
+        font-size: 2rem;
+    }
+
+
+}
